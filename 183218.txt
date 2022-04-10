@@ -20,4 +20,6 @@ git checkout -b branch2
 17. DONE
 18. git commit -m "Modify item #4 and add item #6"
 19. DONE
-20. 
+20. git checkout master
+git merge branch1 - konflikt
+21. git merge branch2- konflikt
