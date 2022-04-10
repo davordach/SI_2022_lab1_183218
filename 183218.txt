@@ -23,3 +23,5 @@ git checkout -b branch2
 20. git checkout master
 git merge branch1
 21. git merge branch2
+
+conflicts resolved
