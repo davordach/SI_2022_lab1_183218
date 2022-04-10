@@ -3,3 +3,4 @@ eggs x 6
 carrot x 3
 tomato x 6
 watermelon x 4
+cucumber x 2
